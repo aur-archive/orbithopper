@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Orbit-Hopper
+Comment=A SkyRoads clone featuring new levels, enemies and much more
+Exec=orbithopper
+Icon=orbithopper
+Terminal=false
+Categories=Game;ArcadeGame;
